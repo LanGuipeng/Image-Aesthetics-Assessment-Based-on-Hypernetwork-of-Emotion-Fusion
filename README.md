@@ -1,7 +1,9 @@
-1. main_c文件为ACC指标
-2. main文件为训练文件
-3. test文件为测试情感图像的美学注释
-4. models为网络结构
-5. main_cam为可视化
-6. map为分数映射
-7. experiment为实验结果
+# Image Aesthetics Assessment Based on Hypernetwork of Emotion Fusion
+The official PyTorch source of "Image Aesthetics Assessment Based on Hypernetwork of Emotion Fusion".
+
+- [ ] **To do list**
+    - [ ] Upload the PyTorch source
+    - [ ] Presentation effect
+    - [x] Edit how to use code to achieve aesthetic quality evaluation of images
+
+
